@@ -1,11 +1,12 @@
 ## Refactoring Exercise
 
 ### Goal
-Here's some really bad code!  It is (intentionally) bad, with lots of
-duplicated/copied and pasted code, improper use of method/classes, bad naming
-of variables and methods, etc.  The only good thing about this code is the
+Here's some code to process csv data. This code is thoroughly tested
 tests, which will help guide you through the exercise and ensure that the
 interface/functionality of the code remains intact with your refactor.
+
+Your objective is to propose improvements to this code, just as if you
+were doing a change review for a colleague of yours.
 
 Feel free to create new classes, helper methods, etc as you see fit.
 Feel free to split things into new files and folders as you like, but
